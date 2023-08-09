@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "javascript.format.semicolons": "insert",
+    "editor.tokenColorCustomizations": {
+        
+    }
+}

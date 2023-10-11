@@ -6,7 +6,11 @@
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.guides.bracketPairs": true,
     "javascript.format.semicolons": "insert",
-    "editor.tokenColorCustomizations": {
-        
+    "workbench.iconTheme": "vscode-great-icons",
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiGreen",
+    "terminal.integrated.automationProfile.linux": null,
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#37d4a7",
+        "terminalCursor.foreground": "#dc006e",
     }
 }

@@ -12,5 +12,8 @@
     "workbench.colorCustomizations": {
         "terminal.foreground": "#37d4a7",
         "terminalCursor.foreground": "#dc006e",
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
     }
 }
